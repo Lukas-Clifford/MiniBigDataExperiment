@@ -8,7 +8,7 @@ Un experimento para probar el mundo del Big Data
 | **2**   | 68.56 días (~2.2 meses)  | 3.75 compras        | 347.43 €          |
 | **3**   | 140.34 días (~4.6 meses) | 1.79 compras        | 1118.47 €         |
 
-Análisis de los Clusters
+# Análisis de los Clusters
 Cluster 0: Clientes Ocasionales (corto plazo)
 Compran muy pocas veces (1.60 compras)
 Gastan poco (249.06 €)
