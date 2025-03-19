@@ -83,24 +83,29 @@ Gracias a la libreria pandas, matplotlib y seaborn podemos ver los datos con gr�
 
 ## Gráficas según sobre un eje
 ![image](https://github.com/user-attachments/assets/9288439b-28e6-4b1a-8dac-2e46ed88bc82)
+
 En esta imagen vemos cuantos tipos de de tatuajes hay según categorías.
 Nótese los pesos de la función que los genera, que son 50%, 35% y 15%
 
 
 ![image](https://github.com/user-attachments/assets/55e3e456-d426-45e7-b613-3eb610e24150)
+
 En esta imagen vemos la cantidad de ventas en cada día de la semana.
 
 
 ![image](https://github.com/user-attachments/assets/e070ba98-a6b2-4f2a-875f-b968f82ee414)
+
 Aquí, las ventas por hora, destacando las horas con más ventas según la media.
 
 
 ## Gráficas sobre dos ejes
 
 ![image](https://github.com/user-attachments/assets/d43dab79-7be9-4ef0-9551-2e94d143e9fc)
+
 En esta imagen podemos ver el precio de los tatuajes según por categoría.
 
 
 ![image](https://github.com/user-attachments/assets/e8976437-50d5-4267-b2f3-84a2a6381836)
+
 Por último, en esta imagen se puede ver claramente la artificialidad de los datos donde se puede apreciar los rangos generados de duracion en minutos y el precio
 
